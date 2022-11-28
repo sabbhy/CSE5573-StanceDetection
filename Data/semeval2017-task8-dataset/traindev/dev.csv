@@ -1,0 +1,1406 @@
+,id,parent_id,tweet,topic,classification
+0,"3305    580321716838100992
+Name: id, dtype: object","3305    580319078155468800
+Name: parent_id, dtype: object","3305    #BreakingNews “@BBCBreaking: Germanwings Airbu...
+Name: tweet, dtype: object","3305    germanwings-crash
+Name: topic, dtype: object",support
+1,"3186    580332626541694976
+Name: id, dtype: object","3186    580332109782466561
+Name: parent_id, dtype: object","3186    @AirSmolik Im thinking structurql failure - qn...
+Name: tweet, dtype: object","3186    germanwings-crash
+Name: topic, dtype: object",support
+2,"3292    581065934598582272
+Name: id, dtype: object","3292    581064636373590016
+Name: parent_id, dtype: object","3292    @marcepa49 @flightradar24 @isobelroe It only t...
+Name: tweet, dtype: object","3292    germanwings-crash
+Name: topic, dtype: object",comment
+3,"3175    580342887910494208
+Name: id, dtype: object","3175    580339547269144576
+Name: parent_id, dtype: object","3175    @mashable Did you mean ""mayday"" here or ""..for...
+Name: tweet, dtype: object","3175    germanwings-crash
+Name: topic, dtype: object",query
+4,"3079    581576082362478595
+Name: id, dtype: object","3079    581574401411457024
+Name: parent_id, dtype: object","3079    @tinkalee_12 @USATODAY @khjelmgaard #F4Phantom...
+Name: tweet, dtype: object","3079    germanwings-crash
+Name: topic, dtype: object",comment
+5,"3294    581174677554380800
+Name: id, dtype: object","3294    581075660690575360
+Name: parent_id, dtype: object","3294    @marcepa49 The autopilot wasn't set to 100 fee...
+Name: tweet, dtype: object","3294    germanwings-crash
+Name: topic, dtype: object",support
+6,"3109    581473546200707073
+Name: id, dtype: object","3109    581473088249958400
+Name: parent_id, dtype: object","3109    @jjauthor @gatewaypundit i knew that scarf he ...
+Name: tweet, dtype: object","3109    germanwings-crash
+Name: topic, dtype: object",support
+7,"3144    580341529870348288
+Name: id, dtype: object","3144    580340476949086208
+Name: parent_id, dtype: object","3144    @foxandfriends ok so.. There is no other news ...
+Name: tweet, dtype: object","3144    germanwings-crash
+Name: topic, dtype: object",query
+8,"3180    580339386262380544
+Name: id, dtype: object","3180    580332109782466561
+Name: parent_id, dtype: object","3180    @AirSmolik my thoughts exactly. rate is not un...
+Name: tweet, dtype: object","3180    germanwings-crash
+Name: topic, dtype: object",support
+9,"3114    580361957502517248
+Name: id, dtype: object","3114    580360165540642816
+Name: parent_id, dtype: object","3114    @RichelleVHP Safety record is not perfect. htt...
+Name: tweet, dtype: object","3114    germanwings-crash
+Name: topic, dtype: object",support
+10,"3336    580321156508577792
+Name: id, dtype: object","3336    None
+Name: parent_id, dtype: object","3336    Now hearing 148 passengers + crew on board the...
+Name: tweet, dtype: object","3336    germanwings-crash
+Name: topic, dtype: object",support
+11,"3344    580319759532724224
+Name: id, dtype: object","3344    580319482687680512
+Name: parent_id, dtype: object","3344    “@rConflictNews: BREAKING: 148 passengers were...
+Name: tweet, dtype: object","3344    germanwings-crash
+Name: topic, dtype: object",comment
+12,"3312    580337829638598656
+Name: id, dtype: object","3312    580337664471265280
+Name: parent_id, dtype: object","3312    @verylastone @dorome80 my heart is with the lo...
+Name: tweet, dtype: object","3312    germanwings-crash
+Name: topic, dtype: object",comment
+13,"3283    581064371289239552
+Name: id, dtype: object","3283    581063618730553344
+Name: parent_id, dtype: object","3283    @marcepa49 @flightradar24 @isobelroe Would be ...
+Name: tweet, dtype: object","3283    germanwings-crash
+Name: topic, dtype: object",comment
+14,"3154    580342824236916737
+Name: id, dtype: object","3154    580340476949086208
+Name: parent_id, dtype: object","3154    @foxandfriends 15:00 CET #Germanwings Press Co...
+Name: tweet, dtype: object","3154    germanwings-crash
+Name: topic, dtype: object",comment
+15,"3262    580325766946230272
+Name: id, dtype: object","3262    580325090367315968
+Name: parent_id, dtype: object","3262    @flightradar24 Sounds like a decent of 2900fpm
+Name: tweet, dtype: object","3262    germanwings-crash
+Name: topic, dtype: object",comment
+16,"3170    580348622421811200
+Name: id, dtype: object","3170    580339547269144576
+Name: parent_id, dtype: object","3170    @mashable http://t.co/7GXnYX4duu the man behin...
+Name: tweet, dtype: object","3170    germanwings-crash
+Name: topic, dtype: object",comment
+17,"3125    580421457974566912
+Name: id, dtype: object","3125    580350976026112000
+Name: parent_id, dtype: object","3125    @BBCBreaking @claudiapapo What Does He Know Th...
+Name: tweet, dtype: object","3125    germanwings-crash
+Name: topic, dtype: object",comment
+18,"3335    580390811197665280
+Name: id, dtype: object","3335    580322453928431617
+Name: parent_id, dtype: object","3335    @AJENews @germanwings yes indeed :-(.
+Name: tweet, dtype: object","3335    germanwings-crash
+Name: topic, dtype: object",support
+19,"3231    580336658073141249
+Name: id, dtype: object","3231    580336417391439872
+Name: parent_id, dtype: object","3231    @BBCBreaking heavy
+Name: tweet, dtype: object","3231    germanwings-crash
+Name: topic, dtype: object",comment
+20,"3151    580348081272676352
+Name: id, dtype: object","3151    580340476949086208
+Name: parent_id, dtype: object","3151    @foxandfriends another great tragedy
+Name: tweet, dtype: object","3151    germanwings-crash
+Name: topic, dtype: object",comment
+21,"3225    580337060864638976
+Name: id, dtype: object","3225    580333763512705025
+Name: parent_id, dtype: object","3225    @BBCBreaking Airtravel no more safe! Repetitiv...
+Name: tweet, dtype: object","3225    germanwings-crash
+Name: topic, dtype: object",comment
+22,"3124    580418932152102912
+Name: id, dtype: object","3124    580351508971200512
+Name: parent_id, dtype: object","3124    @_icla_ @BBCBreaking This is sadly true...Supp...
+Name: tweet, dtype: object","3124    germanwings-crash
+Name: topic, dtype: object",support
+23,"3308    580326388110114816
+Name: id, dtype: object","3308    580326288885420032
+Name: parent_id, dtype: object","3308    @Granabanana Not to Amsterdam! Itl take too long.
+Name: tweet, dtype: object","3308    germanwings-crash
+Name: topic, dtype: object",comment
+24,"3267    580477720389398528
+Name: id, dtype: object","3267    580477320735133696
+Name: parent_id, dtype: object","3267    @Minus777 @marcepa49 @isobelroe For sure not, ...
+Name: tweet, dtype: object","3267    germanwings-crash
+Name: topic, dtype: object",comment
+25,"3257    580478459413209088
+Name: id, dtype: object","3257    580478159126175745
+Name: parent_id, dtype: object","3257    @Minus777 @flightradar24 @isobelroe which seem...
+Name: tweet, dtype: object","3257    germanwings-crash
+Name: topic, dtype: object",comment
+26,"3116    580353327470247936
+Name: id, dtype: object","3116    580350976026112000
+Name: parent_id, dtype: object","3116    @BBCBreaking @BBCWorld What he couldn't be dri...
+Name: tweet, dtype: object","3116    germanwings-crash
+Name: topic, dtype: object",comment
+27,"3160    580360161211990016
+Name: id, dtype: object","3160    580340476949086208
+Name: parent_id, dtype: object","3160    @foxandfriends    \nWhat was the mayday call, ...
+Name: tweet, dtype: object","3160    germanwings-crash
+Name: topic, dtype: object",query
+28,"3213    580340509664739328
+Name: id, dtype: object","3213    580333909008871424
+Name: parent_id, dtype: object","3213    I am flying with @germanwings in 2 weeks!!! SO...
+Name: tweet, dtype: object","3213    germanwings-crash
+Name: topic, dtype: object",comment
+29,"3094    581440515834413056
+Name: id, dtype: object","3094    581293286268129280
+Name: parent_id, dtype: object","3094    @daxtonbrown @ItsJustJill. It took long enough...
+Name: tweet, dtype: object","3094    germanwings-crash
+Name: topic, dtype: object",support
+30,"3163    581054221086285824
+Name: id, dtype: object","3163    581047170637381632
+Name: parent_id, dtype: object","3163    @henkvaness where did you hear that?
+Name: tweet, dtype: object","3163    germanwings-crash
+Name: topic, dtype: object",query
+31,"3322    580320203474542592
+Name: id, dtype: object","3322    580319078155468800
+Name: parent_id, dtype: object","3322    RT @BBCBreaking: Germanwings Airbus A320 crash...
+Name: tweet, dtype: object","3322    germanwings-crash
+Name: topic, dtype: object",support
+32,"3337    580338933495570432
+Name: id, dtype: object","3337    580321156508577792
+Name: parent_id, dtype: object","3337    @LucyHockingsBBC @BBCWorld we are just ""crew"" ...
+Name: tweet, dtype: object","3337    germanwings-crash
+Name: topic, dtype: object",comment
+33,"3176    580349082406895616
+Name: id, dtype: object","3176    580339547269144576
+Name: parent_id, dtype: object","3176    @mashable His Facebook, https://t.co/LwXQnkqC3...
+Name: tweet, dtype: object","3176    germanwings-crash
+Name: topic, dtype: object",comment
+34,"3228    580336383480446976
+Name: id, dtype: object","3228    580333763512705025
+Name: parent_id, dtype: object","3228    @BBCBreaking #Germanwings #Airbus I wish we he...
+Name: tweet, dtype: object","3228    germanwings-crash
+Name: topic, dtype: object",comment
+35,"3324    580319644013170688
+Name: id, dtype: object","3324    580319078155468800
+Name: parent_id, dtype: object","3324    “@BBCBreaking: Germanwings Airbus A320 crashes...
+Name: tweet, dtype: object","3324    germanwings-crash
+Name: topic, dtype: object",support
+36,"3253    580325090367315968
+Name: id, dtype: object","3253    None
+Name: parent_id, dtype: object","3253    Flight #4U9525 initially climbed to 38,000 fee...
+Name: tweet, dtype: object","3253    germanwings-crash
+Name: topic, dtype: object",support
+37,"3248    580332597919776768
+Name: id, dtype: object","3248    580331561398108160
+Name: parent_id, dtype: object","3248    @thatjohn @RunwayGirl They made that call in F...
+Name: tweet, dtype: object","3248    germanwings-crash
+Name: topic, dtype: object",comment
+38,"3274    580477320735133696
+Name: id, dtype: object","3274    580476902344941569
+Name: parent_id, dtype: object","3274    @marcepa49 @flightradar24 @isobelroe It looks ...
+Name: tweet, dtype: object","3274    germanwings-crash
+Name: topic, dtype: object",comment
+39,"3264    580326527495237632
+Name: id, dtype: object","3264    580325295841943553
+Name: parent_id, dtype: object","3264    @Minus777 @flightradar24 @isobelroe Sent Mayda...
+Name: tweet, dtype: object","3264    germanwings-crash
+Name: topic, dtype: object",comment
+40,"3256    580325493603471361
+Name: id, dtype: object","3256    580325090367315968
+Name: parent_id, dtype: object","3256    RT @flightradar24 #A320 #4U9525 initially clim...
+Name: tweet, dtype: object","3256    germanwings-crash
+Name: topic, dtype: object",comment
+41,"3126    580349775280738304
+Name: id, dtype: object","3126    580348081100734464
+Name: parent_id, dtype: object","3126    Have mercy My heart breaks RT @BBCBreaking #Ge...
+Name: tweet, dtype: object","3126    germanwings-crash
+Name: topic, dtype: object",query
+42,"3132    580360979998900224
+Name: id, dtype: object","3132    580348081100734464
+Name: parent_id, dtype: object","3132    @BBCBreaking @CSWrite2Inspire
+Name: tweet, dtype: object","3132    germanwings-crash
+Name: topic, dtype: object",comment
+43,"3221    580335777923510272
+Name: id, dtype: object","3221    580333763512705025
+Name: parent_id, dtype: object","3221    @BBCBreaking very socked news for passengers &...
+Name: tweet, dtype: object","3221    germanwings-crash
+Name: topic, dtype: object",comment
+44,"3201    581098345227227136
+Name: id, dtype: object","3201    580326222107951104
+Name: parent_id, dtype: object","3201    @UlrichJvV So sad to know that it was a delibe...
+Name: tweet, dtype: object","3201    germanwings-crash
+Name: topic, dtype: object",comment
+45,"3240    580331561398108160
+Name: id, dtype: object","3240    None
+Name: parent_id, dtype: object","3240    1047 call: DGAC source says pilots called «urg...
+Name: tweet, dtype: object","3240    germanwings-crash
+Name: topic, dtype: object",support
+46,"3343    580339156435345409
+Name: id, dtype: object","3343    580319482687680512
+Name: parent_id, dtype: object","3343    @rConflictNews @AlArabiya_Eng No crew???? Thos...
+Name: tweet, dtype: object","3343    germanwings-crash
+Name: topic, dtype: object",query
+47,"3136    580419288441491457
+Name: id, dtype: object","3136    580348081100734464
+Name: parent_id, dtype: object","3136    @BBCBreaking Pray for the grieving families. 🙏❤️
+Name: tweet, dtype: object","3136    germanwings-crash
+Name: topic, dtype: object",query
+48,"3251    580338850951639044
+Name: id, dtype: object","3251    580334044774326272
+Name: parent_id, dtype: object","3251    @Fedupwithclowns @thatjohn @RunwayGirl Roger. ...
+Name: tweet, dtype: object","3251    germanwings-crash
+Name: topic, dtype: object",comment
+49,"3182    580357944815972353
+Name: id, dtype: object","3182    580332109782466561
+Name: parent_id, dtype: object","3182    @AirSmolik EMERG DESC, set FL68, started desce...
+Name: tweet, dtype: object","3182    germanwings-crash
+Name: topic, dtype: object",comment
+50,"3088    581293286268129280
+Name: id, dtype: object","3088    None
+Name: parent_id, dtype: object","3088    GERMAN NEWS: Co-Pilot of Germanwings Airbus Wa...
+Name: tweet, dtype: object","3088    germanwings-crash
+Name: topic, dtype: object",support
+51,"3222    580361704065859584
+Name: id, dtype: object","3222    580336417391439872
+Name: parent_id, dtype: object","3222    @BBCBreaking @DimitraCee told u 😲
+Name: tweet, dtype: object","3222    germanwings-crash
+Name: topic, dtype: object",comment
+52,"3333    580322453928431617
+Name: id, dtype: object","3333    None
+Name: parent_id, dtype: object","3333    German Wings airline tweeting now about report...
+Name: tweet, dtype: object","3333    germanwings-crash
+Name: topic, dtype: object",support
+53,"3101    581299394340880384
+Name: id, dtype: object","3101    581298086246395904
+Name: parent_id, dtype: object","3101    @daxtonbrown @ShamNaarai @AnewTrackrecord no, ...
+Name: tweet, dtype: object","3101    germanwings-crash
+Name: topic, dtype: object",comment
+54,"3297    580327894674579456
+Name: id, dtype: object","3297    580324027715063808
+Name: parent_id, dtype: object","3297    “@ChannelNewsAsia: JUST IN: Germanwings plane ...
+Name: tweet, dtype: object","3297    germanwings-crash
+Name: topic, dtype: object",comment
+55,"3141    580884146962046977
+Name: id, dtype: object","3141    580882341880446977
+Name: parent_id, dtype: object","3141    @BuzzFeedNews that's suspicious!
+Name: tweet, dtype: object","3141    germanwings-crash
+Name: topic, dtype: object",comment
+56,"3100    581314247738687488
+Name: id, dtype: object","3100    581293286268129280
+Name: parent_id, dtype: object","3100    @daxtonbrown ""recent Muslim convert"". Like Com...
+Name: tweet, dtype: object","3100    germanwings-crash
+Name: topic, dtype: object",comment
+57,"3110    581474582302949376
+Name: id, dtype: object","3110    581473088249958400
+Name: parent_id, dtype: object","3110    @jjauthor @gatewaypundit Hmmm.Doesn't pundit m...
+Name: tweet, dtype: object","3110    germanwings-crash
+Name: topic, dtype: object",support
+58,"3072    581070383023030272
+Name: id, dtype: object","3072    581063377226637312
+Name: parent_id, dtype: object","3072    @thatjohn Have they named the pilot?
+Name: tweet, dtype: object","3072    germanwings-crash
+Name: topic, dtype: object",query
+59,"3150    580377249905512450
+Name: id, dtype: object","3150    580370888303890432
+Name: parent_id, dtype: object","3150    @madest @foxandfriends Douchey it's Douchey.
+Name: tweet, dtype: object","3150    germanwings-crash
+Name: topic, dtype: object",support
+60,"3271    581064636373590016
+Name: id, dtype: object","3271    581063788150980608
+Name: parent_id, dtype: object","3271    @Minus777 @flightradar24 @isobelroe The transp...
+Name: tweet, dtype: object","3271    germanwings-crash
+Name: topic, dtype: object",deny
+61,"3076    581389448908300288
+Name: id, dtype: object","3076    581386094337474560
+Name: parent_id, dtype: object","3076    @USATODAY Col @OliverNorthFNC, military like y...
+Name: tweet, dtype: object","3076    germanwings-crash
+Name: topic, dtype: object",comment
+62,"3111    581478014531203072
+Name: id, dtype: object","3111    581473088249958400
+Name: parent_id, dtype: object","3111    @jjauthor @gatewaypundit Isn't Islam a wonderf...
+Name: tweet, dtype: object","3111    germanwings-crash
+Name: topic, dtype: object",query
+63,"3104    581299530517192705
+Name: id, dtype: object","3104    581298086246395904
+Name: parent_id, dtype: object","3104    @daxtonbrown @AnewTrackrecord @ShamNaarai I wo...
+Name: tweet, dtype: object","3104    germanwings-crash
+Name: topic, dtype: object",support
+64,"3317    580409595472060416
+Name: id, dtype: object","3317    580409410884894720
+Name: parent_id, dtype: object","3317    @LIVE_COVERAGE @MissWitch2310 @BBCBreaking I d...
+Name: tweet, dtype: object","3317    germanwings-crash
+Name: topic, dtype: object",comment
+65,"3327    580320280607920128
+Name: id, dtype: object","3327    580319078155468800
+Name: parent_id, dtype: object","3327    I’m getting more skeptical of flying. RT @BBCB...
+Name: tweet, dtype: object","3327    germanwings-crash
+Name: topic, dtype: object",comment
+66,"3304    580320511315587073
+Name: id, dtype: object","3304    580319078155468800
+Name: parent_id, dtype: object","3304    @BBCBreaking awful news  :-(
+Name: tweet, dtype: object","3304    germanwings-crash
+Name: topic, dtype: object",comment
+67,"3318    580319622521442304
+Name: id, dtype: object","3318    580319078155468800
+Name: parent_id, dtype: object","3318    “@BBCBreaking: Germanwings Airbus A320 crashes...
+Name: tweet, dtype: object","3318    germanwings-crash
+Name: topic, dtype: object",comment
+68,"3197    580346192367878144
+Name: id, dtype: object","3197    580339825649291264
+Name: parent_id, dtype: object","3197    RT @NBCNews: #Germanwings passenger plane cras...
+Name: tweet, dtype: object","3197    germanwings-crash
+Name: topic, dtype: object",comment
+69,"3234    580335643424743424
+Name: id, dtype: object","3234    580335134806790144
+Name: parent_id, dtype: object","3234    @woteverchanges @BBCBreaking @fhollande smh so...
+Name: tweet, dtype: object","3234    germanwings-crash
+Name: topic, dtype: object",comment
+70,"3078    581501991005863936
+Name: id, dtype: object","3078    581386094337474560
+Name: parent_id, dtype: object","3078    @USATODAY best follow I ever did
+Name: tweet, dtype: object","3078    germanwings-crash
+Name: topic, dtype: object",comment
+71,"3295    581197425366401024
+Name: id, dtype: object","3295    581194671902195712
+Name: parent_id, dtype: object","3295    @Minus777 @flightradar24 @isobelroe Look at th...
+Name: tweet, dtype: object","3295    germanwings-crash
+Name: topic, dtype: object",comment
+72,"3349    580321651780399105
+Name: id, dtype: object","3349    580320684305416192
+Name: parent_id, dtype: object","3349    @NYCAviation terrible news.
+Name: tweet, dtype: object","3349    germanwings-crash
+Name: topic, dtype: object",comment
+73,"3098    581420137724530688
+Name: id, dtype: object","3098    581300449237667840
+Name: parent_id, dtype: object","3098    @raterosie @daxtonbrown @ShamNaarai @AnewTrack...
+Name: tweet, dtype: object","3098    germanwings-crash
+Name: topic, dtype: object",comment
+74,"3105    581473088249958400
+Name: id, dtype: object","3105    None
+Name: parent_id, dtype: object","3105    GERMAN NEWS REPORT: Co-Pilot of Germanwings Ai...
+Name: tweet, dtype: object","3105    germanwings-crash
+Name: topic, dtype: object",support
+75,"3301    580322377927692288
+Name: id, dtype: object","3301    580319078155468800
+Name: parent_id, dtype: object","3301    #BBC says 142 passengers &amp; 6 crew @93wibc ...
+Name: tweet, dtype: object","3301    germanwings-crash
+Name: topic, dtype: object",support
+76,"3309    580409410884894720
+Name: id, dtype: object","3309    580325778207932416
+Name: parent_id, dtype: object","3309    «--thousands, not millions, of planes daily/gl...
+Name: tweet, dtype: object","3309    germanwings-crash
+Name: topic, dtype: object",comment
+77,"3210    580333909008871424
+Name: id, dtype: object","3210    None
+Name: parent_id, dtype: object","3210    French junior minister for Transport Alain Vid...
+Name: tweet, dtype: object","3210    germanwings-crash
+Name: topic, dtype: object",support
+78,"3193    580340609958858753
+Name: id, dtype: object","3193    580339825649291264
+Name: parent_id, dtype: object","3193    @NBCNews Praying for the families and friends ...
+Name: tweet, dtype: object","3193    germanwings-crash
+Name: topic, dtype: object",comment
+79,"3158    580343437536395264
+Name: id, dtype: object","3158    580340476949086208
+Name: parent_id, dtype: object","3158    @foxandfriends 144 Passengers and 6 Crewmember...
+Name: tweet, dtype: object","3158    germanwings-crash
+Name: topic, dtype: object",comment
+80,"3332    580320510833086465
+Name: id, dtype: object","3332    580319078155468800
+Name: parent_id, dtype: object","3332    “@BBCBreaking: Germanwings Airbus A320 crashes...
+Name: tweet, dtype: object","3332    germanwings-crash
+Name: topic, dtype: object",support
+81,"3211    580486138378452992
+Name: id, dtype: object","3211    580333909008871424
+Name: parent_id, dtype: object","3211    @tseymat @euronews condolences to the families...
+Name: tweet, dtype: object","3211    germanwings-crash
+Name: topic, dtype: object",support
+82,"3216    580335177785696256
+Name: id, dtype: object","3216    580333763512705025
+Name: parent_id, dtype: object","3216    @BBCBreaking
+Name: tweet, dtype: object","3216    germanwings-crash
+Name: topic, dtype: object",comment
+83,"3321    580319644218687488
+Name: id, dtype: object","3321    580319078155468800
+Name: parent_id, dtype: object","3321    “@BBCBreaking: Germanwings Airbus A320 crashes...
+Name: tweet, dtype: object","3321    germanwings-crash
+Name: topic, dtype: object",deny
+84,"3307    580410281018413056
+Name: id, dtype: object","3307    580409595472060416
+Name: parent_id, dtype: object","3307    «ok,Good.:);)@Granabanana♦@MissWitch2310¤@BBCB...
+Name: tweet, dtype: object","3307    germanwings-crash
+Name: topic, dtype: object",comment
+85,"3245    580332722306084864
+Name: id, dtype: object","3245    580331561398108160
+Name: parent_id, dtype: object","3245    @thatjohn @Holbornlolz Mayday is a call for ur...
+Name: tweet, dtype: object","3245    germanwings-crash
+Name: topic, dtype: object",comment
+86,"3145    580342548394352640
+Name: id, dtype: object","3145    580340476949086208
+Name: parent_id, dtype: object","3145    @foxandfriends @VLM_va  Nothing New just rumor...
+Name: tweet, dtype: object","3145    germanwings-crash
+Name: topic, dtype: object",support
+87,"3178    580347953069592577
+Name: id, dtype: object","3178    580339547269144576
+Name: parent_id, dtype: object","3178    @mashable makes reference to 911 RE #Germanwin...
+Name: tweet, dtype: object","3178    germanwings-crash
+Name: topic, dtype: object",deny
+88,"3131    580422272575533056
+Name: id, dtype: object","3131    580421457974566912
+Name: parent_id, dtype: object","3131    @Larryputt @BBCBreaking assholes
+Name: tweet, dtype: object","3131    germanwings-crash
+Name: topic, dtype: object",comment
+89,"3173    580340033384775680
+Name: id, dtype: object","3173    580339547269144576
+Name: parent_id, dtype: object","3173    @mashable signaled 911?
+Name: tweet, dtype: object","3173    germanwings-crash
+Name: topic, dtype: object",query
+90,"3218    580337014328942592
+Name: id, dtype: object","3218    580333763512705025
+Name: parent_id, dtype: object","3218    @BBCBreaking 🙏🙏🙏 oh god 😢
+Name: tweet, dtype: object","3218    germanwings-crash
+Name: topic, dtype: object",comment
+91,"3167    580340609388417024
+Name: id, dtype: object","3167    580339547269144576
+Name: parent_id, dtype: object","3167    .@mashable What does that even mean? Why would...
+Name: tweet, dtype: object","3167    germanwings-crash
+Name: topic, dtype: object",query
+92,"3135    580364951367200770
+Name: id, dtype: object","3135    580348081100734464
+Name: parent_id, dtype: object","3135    MT “@BBCBreaking: #Germanwings: 144 passengers...
+Name: tweet, dtype: object","3135    germanwings-crash
+Name: topic, dtype: object",support
+93,"3347    580358131080925184
+Name: id, dtype: object","3347    580321411677454336
+Name: parent_id, dtype: object","3347    @rConflictNews @sahla_sing what happened
+Name: tweet, dtype: object","3347    germanwings-crash
+Name: topic, dtype: object",query
+94,"3323    580326288885420032
+Name: id, dtype: object","3323    580325939273424896
+Name: parent_id, dtype: object","3323    @MissWitch2310 then don't panic. You can alway...
+Name: tweet, dtype: object","3323    germanwings-crash
+Name: topic, dtype: object",comment
+95,"3129    580348238705741824
+Name: id, dtype: object","3129    580348081100734464
+Name: parent_id, dtype: object","3129    @BBCBreaking May they RIP.. So many planes cra...
+Name: tweet, dtype: object","3129    germanwings-crash
+Name: topic, dtype: object",comment
+96,"3119    580350715408859136
+Name: id, dtype: object","3119    580349875851784192
+Name: parent_id, dtype: object","3119    RT @BBCBreaking Victims of #Germanwings crash ...
+Name: tweet, dtype: object","3119    germanwings-crash
+Name: topic, dtype: object",comment
+97,"3103    581300449237667840
+Name: id, dtype: object","3103    581298086246395904
+Name: parent_id, dtype: object","3103    @daxtonbrown @ShamNaarai @AnewTrackrecord a mu...
+Name: tweet, dtype: object","3103    germanwings-crash
+Name: topic, dtype: object",deny
+98,"3179    580332109782466561
+Name: id, dtype: object","3179    None
+Name: parent_id, dtype: object","3179    #4U9525 From FL380 to FL110 in 8 min? That's a...
+Name: tweet, dtype: object","3179    germanwings-crash
+Name: topic, dtype: object",comment
+99,"3112    580360165540642816
+Name: id, dtype: object","3112    None
+Name: parent_id, dtype: object","3112    @FRANCE24 reporter James André at French Civil...
+Name: tweet, dtype: object","3112    germanwings-crash
+Name: topic, dtype: object",deny
+100,"3146    580343913728352257
+Name: id, dtype: object","3146    580340476949086208
+Name: parent_id, dtype: object","3146    @foxandfriends This is a tragedy but why does ...
+Name: tweet, dtype: object","3146    germanwings-crash
+Name: topic, dtype: object",query
+101,"3108    581473799398359040
+Name: id, dtype: object","3108    581473088249958400
+Name: parent_id, dtype: object","3108    @jjauthor @gatewaypundit. I knew it! Those cra...
+Name: tweet, dtype: object","3108    germanwings-crash
+Name: topic, dtype: object",comment
+102,"3278    581198171176480768
+Name: id, dtype: object","3278    581197425366401024
+Name: parent_id, dtype: object","3278    @marcepa49 But that's the FMC, doesn't mean au...
+Name: tweet, dtype: object","3278    germanwings-crash
+Name: topic, dtype: object",comment
+103,"3220    580334573264842752
+Name: id, dtype: object","3220    580333763512705025
+Name: parent_id, dtype: object","3220    @BBCBreaking
+Name: tweet, dtype: object","3220    germanwings-crash
+Name: topic, dtype: object",comment
+104,"3310    580321698450399232
+Name: id, dtype: object","3310    580319078155468800
+Name: parent_id, dtype: object","3310    RT “@BBCBreaking: Germanwings Airbus A320 cras...
+Name: tweet, dtype: object","3310    germanwings-crash
+Name: topic, dtype: object",support
+105,"3287    580505722531778562
+Name: id, dtype: object","3287    580477720389398528
+Name: parent_id, dtype: object","3287    @flightradar24 @Minus777 @marcepa49 @isobelroe...
+Name: tweet, dtype: object","3287    germanwings-crash
+Name: topic, dtype: object",comment
+106,"3286    580476624069619712
+Name: id, dtype: object","3286    580326527495237632
+Name: parent_id, dtype: object","3286    @marcepa49 @flightradar24 @isobelroe It turns ...
+Name: tweet, dtype: object","3286    germanwings-crash
+Name: topic, dtype: object",comment
+107,"3212    580337316687794176
+Name: id, dtype: object","3212    580333909008871424
+Name: parent_id, dtype: object","3212    @tseymat BREAKING - Germanwings plane crashes ...
+Name: tweet, dtype: object","3212    germanwings-crash
+Name: topic, dtype: object",support
+108,"3102    581295555281747968
+Name: id, dtype: object","3102    581293286268129280
+Name: parent_id, dtype: object","3102    @daxtonbrown @AnewTrackrecord NOOOO
+Name: tweet, dtype: object","3102    germanwings-crash
+Name: topic, dtype: object",comment
+109,"3087    580372594186170368
+Name: id, dtype: object","3087    580371845997682688
+Name: parent_id, dtype: object","3087    @thatjohn @AirlineReporter at what point durin...
+Name: tweet, dtype: object","3087    germanwings-crash
+Name: topic, dtype: object",query
+110,"3345    580347685565280256
+Name: id, dtype: object","3345    580319482687680512
+Name: parent_id, dtype: object","3345    @rConflictNews @AlArabiya_Eng 150 souls on boa...
+Name: tweet, dtype: object","3345    germanwings-crash
+Name: topic, dtype: object",comment
+111,"3187    580332419871539200
+Name: id, dtype: object","3187    580332109782466561
+Name: parent_id, dtype: object","3187    @AirSmolik but at a controlled speed (unless r...
+Name: tweet, dtype: object","3187    germanwings-crash
+Name: topic, dtype: object",comment
+112,"3206    580327842183032832
+Name: id, dtype: object","3206    580326222107951104
+Name: parent_id, dtype: object","3206    @UlrichJvV difficult times for the families in...
+Name: tweet, dtype: object","3206    germanwings-crash
+Name: topic, dtype: object",comment
+113,"3329    580320982260387840
+Name: id, dtype: object","3329    580319078155468800
+Name: parent_id, dtype: object","3329    RT: @BBCBreaking: Germanwings Airbus A320 cras...
+Name: tweet, dtype: object","3329    germanwings-crash
+Name: topic, dtype: object",support
+114,"3142    580883004945395712
+Name: id, dtype: object","3142    580882341880446977
+Name: parent_id, dtype: object","3142    @BuzzFeedNews Suicide mission?  That's crazy s...
+Name: tweet, dtype: object","3142    germanwings-crash
+Name: topic, dtype: object",comment
+115,"3172    580351502671171584
+Name: id, dtype: object","3172    580339547269144576
+Name: parent_id, dtype: object","3172    @mashable:Latest on #Germanwings crash:Pilots ...
+Name: tweet, dtype: object","3172    germanwings-crash
+Name: topic, dtype: object",comment
+116,"3238    580337921598816256
+Name: id, dtype: object","3238    580336417391439872
+Name: parent_id, dtype: object","3238    @BBCBreaking so called experts say no time for...
+Name: tweet, dtype: object","3238    germanwings-crash
+Name: topic, dtype: object",comment
+117,"3241    580338878915190784
+Name: id, dtype: object","3241    580331561398108160
+Name: parent_id, dtype: object","3241    @thatjohn is that unusual?
+Name: tweet, dtype: object","3241    germanwings-crash
+Name: topic, dtype: object",query
+118,"3106    581482916645076993
+Name: id, dtype: object","3106    581473088249958400
+Name: parent_id, dtype: object","3106    @jjauthor @DesireeAaron @gatewaypundit this is...
+Name: tweet, dtype: object","3106    germanwings-crash
+Name: topic, dtype: object",comment
+119,"3277    581065340110655488
+Name: id, dtype: object","3277    581064636373590016
+Name: parent_id, dtype: object","3277    @marcepa49 @flightradar24 @isobelroe crash it ...
+Name: tweet, dtype: object","3277    germanwings-crash
+Name: topic, dtype: object",comment
+120,"3244    580348442318381056
+Name: id, dtype: object","3244    580346271547920384
+Name: parent_id, dtype: object","3244    @RAeSTimR @thatjohn Ahh.. I was always taught ...
+Name: tweet, dtype: object","3244    germanwings-crash
+Name: topic, dtype: object",comment
+121,"3202    580732521551396864
+Name: id, dtype: object","3202    580326222107951104
+Name: parent_id, dtype: object","3202    @UlrichJvV Hope we will not to hear this kind ...
+Name: tweet, dtype: object","3202    germanwings-crash
+Name: topic, dtype: object",comment
+122,"3289    580477423487180800
+Name: id, dtype: object","3289    580476902344941569
+Name: parent_id, dtype: object","3289    @marcepa49 @flightradar24 @isobelroe Anyway. H...
+Name: tweet, dtype: object","3289    germanwings-crash
+Name: topic, dtype: object",comment
+123,"3084    582048059606994944
+Name: id, dtype: object","3084    581386094337474560
+Name: parent_id, dtype: object","3084    @USATODAY @khjelmgaard ers a link to prove @An...
+Name: tweet, dtype: object","3084    germanwings-crash
+Name: topic, dtype: object",comment
+124,"3315    580333804457496576
+Name: id, dtype: object","3315    580333382934089728
+Name: parent_id, dtype: object","3315    @dorome80 The worst :(
+Name: tweet, dtype: object","3315    germanwings-crash
+Name: topic, dtype: object",comment
+125,"3122    580358103255879680
+Name: id, dtype: object","3122    580351508971200512
+Name: parent_id, dtype: object","3122    @_icla_ @BBCBreaking In this case for Germany ...
+Name: tweet, dtype: object","3122    germanwings-crash
+Name: topic, dtype: object",comment
+126,"3121    580348826835394560
+Name: id, dtype: object","3121    580348081100734464
+Name: parent_id, dtype: object","3121    Sad news ""@BBCBreaking: #Germanwings ""sorry to...
+Name: tweet, dtype: object","3121    germanwings-crash
+Name: topic, dtype: object",comment
+127,"3306    580320961439887360
+Name: id, dtype: object","3306    580319078155468800
+Name: parent_id, dtype: object","3306    RT @BBCBreaking: Germanwings Airbus A320 crash...
+Name: tweet, dtype: object","3306    germanwings-crash
+Name: topic, dtype: object",support
+128,"3143    580340476949086208
+Name: id, dtype: object","3143    None
+Name: parent_id, dtype: object","3143    BREAKING: 148 feared dead in crashed #Germanwi...
+Name: tweet, dtype: object","3143    germanwings-crash
+Name: topic, dtype: object",support
+129,"3235    580335772596858880
+Name: id, dtype: object","3235    580333763512705025
+Name: parent_id, dtype: object","3235    @BBCBreaking \nso sad, what made it.
+Name: tweet, dtype: object","3235    germanwings-crash
+Name: topic, dtype: object",comment
+130,"3272    581034556964245504
+Name: id, dtype: object","3272    581034287522164736
+Name: parent_id, dtype: object","3272    @marcepa49 @flightradar24 @isobelroe I don't t...
+Name: tweet, dtype: object","3272    germanwings-crash
+Name: topic, dtype: object",comment
+131,"3331    580320057017896961
+Name: id, dtype: object","3331    580319078155468800
+Name: parent_id, dtype: object","3331    RT @BBCBreaking: Germanwings Airbus A320 crash...
+Name: tweet, dtype: object","3331    germanwings-crash
+Name: topic, dtype: object",support
+132,"3113    580361402663231488
+Name: id, dtype: object","3113    580360165540642816
+Name: parent_id, dtype: object","3113    .@RichelleVHP @France24_en @FRANCE24 Please ta...
+Name: tweet, dtype: object","3113    germanwings-crash
+Name: topic, dtype: object",deny
+133,"3166    580340736815718400
+Name: id, dtype: object","3166    580339547269144576
+Name: parent_id, dtype: object","3166    @mashable you might want to change the use of ...
+Name: tweet, dtype: object","3166    germanwings-crash
+Name: topic, dtype: object",comment
+134,"3314    580337664471265280
+Name: id, dtype: object","3314    580337415241383938
+Name: parent_id, dtype: object","3314    . @LoveNotH81 @dorome80 Just heard: No survivo...
+Name: tweet, dtype: object","3314    germanwings-crash
+Name: topic, dtype: object",comment
+135,"3133    580350976026112000
+Name: id, dtype: object","3133    580349875851784192
+Name: parent_id, dtype: object","3133    King Felipe VI of Spain cancels state visit to...
+Name: tweet, dtype: object","3133    germanwings-crash
+Name: topic, dtype: object",comment
+136,"3326    580319878328020992
+Name: id, dtype: object","3326    580319078155468800
+Name: parent_id, dtype: object","3326    RT @BBCBreaking: Germanwings Airbus A320 crash...
+Name: tweet, dtype: object","3326    germanwings-crash
+Name: topic, dtype: object",support
+137,"3268    580325250996518913
+Name: id, dtype: object","3268    580325090367315968
+Name: parent_id, dtype: object","3268    @flightradar24 any idea why it'd flight so hig...
+Name: tweet, dtype: object","3268    germanwings-crash
+Name: topic, dtype: object",query
+138,"3139    580954643028697088
+Name: id, dtype: object","3139    580954155092549632
+Name: parent_id, dtype: object","3139    @rshak8 @BuzzFeedNews My thought too! Question...
+Name: tweet, dtype: object","3139    germanwings-crash
+Name: topic, dtype: object",comment
+139,"3273    580325295841943553
+Name: id, dtype: object","3273    580325090367315968
+Name: parent_id, dtype: object","3273    @flightradar24 But no emergency call made? Or ...
+Name: tweet, dtype: object","3273    germanwings-crash
+Name: topic, dtype: object",query
+140,"3115    580348081100734464
+Name: id, dtype: object","3115    None
+Name: parent_id, dtype: object","3115    #Germanwings ""sorry to confirm"" 144 passengers...
+Name: tweet, dtype: object","3115    germanwings-crash
+Name: topic, dtype: object",support
+141,"3296    580324027715063808
+Name: id, dtype: object","3296    None
+Name: parent_id, dtype: object","3296    JUST IN: Germanwings plane crashes in southern...
+Name: tweet, dtype: object","3296    germanwings-crash
+Name: topic, dtype: object",support
+142,"3156    580345116658966528
+Name: id, dtype: object","3156    580340476949086208
+Name: parent_id, dtype: object","3156    “@foxandfriends: BREAKING: 148 feared dead in ...
+Name: tweet, dtype: object","3156    germanwings-crash
+Name: topic, dtype: object",support
+143,"3303    580325778207932416
+Name: id, dtype: object","3303    580319644218687488
+Name: parent_id, dtype: object","3303    @MissWitch2310 @BBCBreaking millions of flight...
+Name: tweet, dtype: object","3303    germanwings-crash
+Name: topic, dtype: object",comment
+144,"3080    582205500709867520
+Name: id, dtype: object","3080    581386094337474560
+Name: parent_id, dtype: object","3080    @USATODAY @khjelmgaard Sure #GermanWings CoPil...
+Name: tweet, dtype: object","3080    germanwings-crash
+Name: topic, dtype: object",comment
+145,"3205    580327755121868800
+Name: id, dtype: object","3205    580326222107951104
+Name: parent_id, dtype: object","3205    @UlrichJvV Lets wait for NTSB to tell us why i...
+Name: tweet, dtype: object","3205    germanwings-crash
+Name: topic, dtype: object",comment
+146,"3282    581034287522164736
+Name: id, dtype: object","3282    581023104970829824
+Name: parent_id, dtype: object","3282    @Minus777 @flightradar24 @isobelroe Or autopil...
+Name: tweet, dtype: object","3282    germanwings-crash
+Name: topic, dtype: object",comment
+147,"3161    581047170637381632
+Name: id, dtype: object","3161    None
+Name: parent_id, dtype: object","3161    Names of pilots rumored to be Patrick Sonderhe...
+Name: tweet, dtype: object","3161    germanwings-crash
+Name: topic, dtype: object",support
+148,"3188    580333762677997569
+Name: id, dtype: object","3188    580332109782466561
+Name: parent_id, dtype: object","3188    @AirSmolik pilots may have been suffering a Hy...
+Name: tweet, dtype: object","3188    germanwings-crash
+Name: topic, dtype: object",comment
+149,"3246    580334044774326272
+Name: id, dtype: object","3246    580332597919776768
+Name: parent_id, dtype: object","3246    @cobaltjacket @thatjohn @RunwayGirl Lots of ra...
+Name: tweet, dtype: object","3246    germanwings-crash
+Name: topic, dtype: object",comment
+150,"3185    580332487819165696
+Name: id, dtype: object","3185    580332109782466561
+Name: parent_id, dtype: object","3185    @AirSmolik descent rate is not that unusual.
+Name: tweet, dtype: object","3185    germanwings-crash
+Name: topic, dtype: object",comment
+151,"3299    580344945610870785
+Name: id, dtype: object","3299    580324027715063808
+Name: parent_id, dtype: object","3299    “@ChannelNewsAsia: JUST IN: Germanwings plane ...
+Name: tweet, dtype: object","3299    germanwings-crash
+Name: topic, dtype: object",comment
+152,"3348    580320684305416192
+Name: id, dtype: object","3348    None
+Name: parent_id, dtype: object","3348    Accident aircraft looks to be Germanwings (Air...
+Name: tweet, dtype: object","3348    germanwings-crash
+Name: topic, dtype: object",support
+153,"3254    580325976975896577
+Name: id, dtype: object","3254    580325090367315968
+Name: parent_id, dtype: object","3254    @flightradar24 Any ATC available? Strange.....
+Name: tweet, dtype: object","3254    germanwings-crash
+Name: topic, dtype: object",query
+154,"3215    580333763512705025
+Name: id, dtype: object","3215    None
+Name: parent_id, dtype: object","3215    #Germanwings latest: http://t.co/8tZopIBYLh\n-...
+Name: tweet, dtype: object","3215    germanwings-crash
+Name: topic, dtype: object",support
+155,"3250    580339782213083137
+Name: id, dtype: object","3250    580338850951639044
+Name: parent_id, dtype: object","3250    @cobaltjacket @thatjohn @RunwayGirl Just histo...
+Name: tweet, dtype: object","3250    germanwings-crash
+Name: topic, dtype: object",comment
+156,"3214    580323060533764097
+Name: id, dtype: object","3214    None
+Name: parent_id, dtype: object","3214    Germanwings passenger plane crashes in France:...
+Name: tweet, dtype: object","3214    germanwings-crash
+Name: topic, dtype: object",support
+157,"3155    580342091018084352
+Name: id, dtype: object","3155    580340476949086208
+Name: parent_id, dtype: object","3155    @foxandfriends is there any other news in the ...
+Name: tweet, dtype: object","3155    germanwings-crash
+Name: topic, dtype: object",comment
+158,"3298    580333435287265280
+Name: id, dtype: object","3298    580324027715063808
+Name: parent_id, dtype: object","3298    😫 “@ChannelNewsAsia: JUST IN: Germanwings plan...
+Name: tweet, dtype: object","3298    germanwings-crash
+Name: topic, dtype: object",comment
+159,"3168    580341019515883521
+Name: id, dtype: object","3168    580339547269144576
+Name: parent_id, dtype: object","3168    “@mashable: Latest on #Germanwings crash: Pilo...
+Name: tweet, dtype: object","3168    germanwings-crash
+Name: topic, dtype: object",deny
+160,"3081    581389712063008768
+Name: id, dtype: object","3081    581386094337474560
+Name: parent_id, dtype: object","3081    @USATODAY @khjelmgaard Him and millions of oth...
+Name: tweet, dtype: object","3081    germanwings-crash
+Name: topic, dtype: object",query
+161,"3120    580358531850866688
+Name: id, dtype: object","3120    580358103255879680
+Name: parent_id, dtype: object","3120    @KatjaSherlocked I know I know.. :'( I had add...
+Name: tweet, dtype: object","3120    germanwings-crash
+Name: topic, dtype: object",comment
+162,"3249    580333630913933312
+Name: id, dtype: object","3249    580331561398108160
+Name: parent_id, dtype: object","3249    @thatjohn @planefinder why would they say urge...
+Name: tweet, dtype: object","3249    germanwings-crash
+Name: topic, dtype: object",query
+163,"3263    580327559193346048
+Name: id, dtype: object","3263    580327254468603904
+Name: parent_id, dtype: object","3263    @Minus777 @flightradar24 @isobelroe What's the...
+Name: tweet, dtype: object","3263    germanwings-crash
+Name: topic, dtype: object",query
+164,"3209    581283472549023744
+Name: id, dtype: object","3209    580326222107951104
+Name: parent_id, dtype: object","3209    @UlrichJvV @affinity292 how many 'nazis' did l...
+Name: tweet, dtype: object","3209    germanwings-crash
+Name: topic, dtype: object",query
+165,"3171    580345218152734720
+Name: id, dtype: object","3171    580339547269144576
+Name: parent_id, dtype: object","3171    @mashable didn't find ""911"" in all stories and...
+Name: tweet, dtype: object","3171    germanwings-crash
+Name: topic, dtype: object",comment
+166,"3290    580478159126175745
+Name: id, dtype: object","3290    580477832826130432
+Name: parent_id, dtype: object","3290    @marcepa49 @flightradar24 @isobelroe If someon...
+Name: tweet, dtype: object","3290    germanwings-crash
+Name: topic, dtype: object",comment
+167,"3159    580674597298786304
+Name: id, dtype: object","3159    580340476949086208
+Name: parent_id, dtype: object","3159    @foxandfriends children may not understand. It...
+Name: tweet, dtype: object","3159    germanwings-crash
+Name: topic, dtype: object",comment
+168,"3237    580353553383968769
+Name: id, dtype: object","3237    580336417391439872
+Name: parent_id, dtype: object","3237    @BBCBreaking   My prayers to the families 🙏
+Name: tweet, dtype: object","3237    germanwings-crash
+Name: topic, dtype: object",comment
+169,"3242    580333696596738050
+Name: id, dtype: object","3242    580331561398108160
+Name: parent_id, dtype: object","3242    @thatjohn @gerrylynch mayday is French!
+Name: tweet, dtype: object","3242    germanwings-crash
+Name: topic, dtype: object",comment
+170,"3118    580422091155095552
+Name: id, dtype: object","3118    580421457974566912
+Name: parent_id, dtype: object","3118    @Larryputt @BBCBreaking @claudiapapo OF COURSE...
+Name: tweet, dtype: object","3118    germanwings-crash
+Name: topic, dtype: object",comment
+171,"3293    581064927101628416
+Name: id, dtype: object","3293    581064636373590016
+Name: parent_id, dtype: object","3293    @marcepa49 @flightradar24 @isobelroe It was ob...
+Name: tweet, dtype: object","3293    germanwings-crash
+Name: topic, dtype: object",comment
+172,"3279    580326199324463104
+Name: id, dtype: object","3279    580325090367315968
+Name: parent_id, dtype: object","3279    @flightradar24 isn’t 38,000ft unusually high?
+Name: tweet, dtype: object","3279    germanwings-crash
+Name: topic, dtype: object",query
+173,"3138    580883298316062720
+Name: id, dtype: object","3138    580882341880446977
+Name: parent_id, dtype: object","3138    @BuzzFeedNews doesn't mention if it's the co-p...
+Name: tweet, dtype: object","3138    germanwings-crash
+Name: topic, dtype: object",support
+174,"3162    581049811757076480
+Name: id, dtype: object","3162    581047170637381632
+Name: parent_id, dtype: object","3162    @henkvaness Andreas Lubitz FB profile removed
+Name: tweet, dtype: object","3162    germanwings-crash
+Name: topic, dtype: object",comment
+175,"3236    580334624657768448
+Name: id, dtype: object","3236    580333763512705025
+Name: parent_id, dtype: object","3236    @BBCBreaking terrifying news .pray for their r...
+Name: tweet, dtype: object","3236    germanwings-crash
+Name: topic, dtype: object",comment
+176,"3224    580334382180929536
+Name: id, dtype: object","3224    580333763512705025
+Name: parent_id, dtype: object","3224    “@BBCBreaking: #Germanwings: \n- #Airbus A320 ...
+Name: tweet, dtype: object","3224    germanwings-crash
+Name: topic, dtype: object",comment
+177,"3223    580337070595403777
+Name: id, dtype: object","3223    580336417391439872
+Name: parent_id, dtype: object","3223    Debris from #Germanwings crash located in Barc...
+Name: tweet, dtype: object","3223    germanwings-crash
+Name: topic, dtype: object",support
+178,"3330    580319546592112640
+Name: id, dtype: object","3330    580319078155468800
+Name: parent_id, dtype: object","3330    @BBCBreaking @BBCNews @CharlieHorlock @max_kre...
+Name: tweet, dtype: object","3330    germanwings-crash
+Name: topic, dtype: object",comment
+179,"3350    580329150180913152
+Name: id, dtype: object","3350    580320684305416192
+Name: parent_id, dtype: object","3350    @NYCAviation the 1st and only tweet I've seen ...
+Name: tweet, dtype: object","3350    germanwings-crash
+Name: topic, dtype: object",comment
+180,"3270    580476902344941569
+Name: id, dtype: object","3270    580476624069619712
+Name: parent_id, dtype: object","3270    @Minus777 @flightradar24 @isobelroe Unless the...
+Name: tweet, dtype: object","3270    germanwings-crash
+Name: topic, dtype: object",comment
+181,"3089    581298086246395904
+Name: id, dtype: object","3089    581295807346900992
+Name: parent_id, dtype: object","3089    @ShamNaarai @AnewTrackrecord Yup. I'm not tryi...
+Name: tweet, dtype: object","3089    germanwings-crash
+Name: topic, dtype: object",comment
+182,"3117    580351508971200512
+Name: id, dtype: object","3117    580350976026112000
+Name: parent_id, dtype: object","3117    @BBCBreaking It's been a rotten year for Franc...
+Name: tweet, dtype: object","3117    germanwings-crash
+Name: topic, dtype: object",comment
+183,"3099    581295807346900992
+Name: id, dtype: object","3099    581293286268129280
+Name: parent_id, dtype: object","3099    @daxtonbrown @AnewTrackrecord If TRUE, then we...
+Name: tweet, dtype: object","3099    germanwings-crash
+Name: topic, dtype: object",comment
+184,"3217    580335134806790144
+Name: id, dtype: object","3217    580333763512705025
+Name: parent_id, dtype: object","3217    @BBCBreaking Tragic Not sure how @fhollande ca...
+Name: tweet, dtype: object","3217    germanwings-crash
+Name: topic, dtype: object",comment
+185,"3196    580417959929212928
+Name: id, dtype: object","3196    580339825649291264
+Name: parent_id, dtype: object","3196    Tragedy strikes again RT “@NBCNews: #Germanwin...
+Name: tweet, dtype: object","3196    germanwings-crash
+Name: topic, dtype: object",comment
+186,"3207    583361250639269888
+Name: id, dtype: object","3207    580326222107951104
+Name: parent_id, dtype: object","3207    @UlrichJvV A White European terrorist did a wh...
+Name: tweet, dtype: object","3207    germanwings-crash
+Name: topic, dtype: object",comment
+187,"3260    581023104970829824
+Name: id, dtype: object","3260    580477832826130432
+Name: parent_id, dtype: object","3260    @marcepa49 @flightradar24 @isobelroe They're s...
+Name: tweet, dtype: object","3260    germanwings-crash
+Name: topic, dtype: object",comment
+188,"3255    581198557966897153
+Name: id, dtype: object","3255    581198171176480768
+Name: parent_id, dtype: object","3255    @Minus777 what's the use of changing FMC if au...
+Name: tweet, dtype: object","3255    germanwings-crash
+Name: topic, dtype: object",comment
+189,"3291    580327990845927425
+Name: id, dtype: object","3291    580327254468603904
+Name: parent_id, dtype: object","3291    @Minus777 @marcepa49 @flightradar24 @isobelroe...
+Name: tweet, dtype: object","3291    germanwings-crash
+Name: topic, dtype: object",comment
+190,"3140    580954155092549632
+Name: id, dtype: object","3140    580882341880446977
+Name: parent_id, dtype: object","3140    @buzzfeednews This sounds like pilot suicide.
+Name: tweet, dtype: object","3140    germanwings-crash
+Name: topic, dtype: object",support
+191,"3311    580338252361629697
+Name: id, dtype: object","3311    580337415241383938
+Name: parent_id, dtype: object","3311    @LoveNotH81 @verylastone Yes, it is. 😰 Sounds ...
+Name: tweet, dtype: object","3311    germanwings-crash
+Name: topic, dtype: object",comment
+192,"3227    580805320068325377
+Name: id, dtype: object","3227    580336417391439872
+Name: parent_id, dtype: object","3227    @BBCBreaking How ironic that it originated in ...
+Name: tweet, dtype: object","3227    germanwings-crash
+Name: topic, dtype: object",comment
+193,"3195    580340526236483584
+Name: id, dtype: object","3195    580340111981867010
+Name: parent_id, dtype: object","3195    @volkz_20 @NBCNews Ohhh man, terrible news for...
+Name: tweet, dtype: object","3195    germanwings-crash
+Name: topic, dtype: object",support
+194,"3265    581065199672655873
+Name: id, dtype: object","3265    581064636373590016
+Name: parent_id, dtype: object","3265    @marcepa49 @flightradar24 @isobelroe distress ...
+Name: tweet, dtype: object","3265    germanwings-crash
+Name: topic, dtype: object",comment
+195,"3181    580335390197981184
+Name: id, dtype: object","3181    580332109782466561
+Name: parent_id, dtype: object","3181    @AirSmolik @abundare78 would point to a cabin ...
+Name: tweet, dtype: object","3181    germanwings-crash
+Name: topic, dtype: object",comment
+196,"3164    581050539003277312
+Name: id, dtype: object","3164    581047170637381632
+Name: parent_id, dtype: object","3164    @henkvaness Source of info?
+Name: tweet, dtype: object","3164    germanwings-crash
+Name: topic, dtype: object",query
+197,"3302    580333382934089728
+Name: id, dtype: object","3302    580320979995508737
+Name: parent_id, dtype: object","3302    @verylastone 😱😥 Horrible news.
+Name: tweet, dtype: object","3302    germanwings-crash
+Name: topic, dtype: object",comment
+198,"3073    581063835194392576
+Name: id, dtype: object","3073    581063377226637312
+Name: parent_id, dtype: object","3073    @thatjohn @mschenk
+Name: tweet, dtype: object","3073    germanwings-crash
+Name: topic, dtype: object",comment
+199,"3198    580340111981867010
+Name: id, dtype: object","3198    580339825649291264
+Name: parent_id, dtype: object","3198    @NBCNews @Mao_A_Moon damn, thats the airlines ...
+Name: tweet, dtype: object","3198    germanwings-crash
+Name: topic, dtype: object",comment
+200,"3074    581386094337474560
+Name: id, dtype: object","3074    None
+Name: parent_id, dtype: object","3074    RT @khjelmgaard: German media reporting #Andre...
+Name: tweet, dtype: object","3074    germanwings-crash
+Name: topic, dtype: object",support
+201,"3300    580319078155468800
+Name: id, dtype: object","3300    None
+Name: parent_id, dtype: object","3300    Germanwings Airbus A320 crashes in French Alps...
+Name: tweet, dtype: object","3300    germanwings-crash
+Name: topic, dtype: object",support
+202,"3319    580320979995508737
+Name: id, dtype: object","3319    580319078155468800
+Name: parent_id, dtype: object","3319    “@BBCBreaking: Germanwings Airbus A320 crashes...
+Name: tweet, dtype: object","3319    germanwings-crash
+Name: topic, dtype: object",support
+203,"3280    580326880169082881
+Name: id, dtype: object","3280    580326199324463104
+Name: parent_id, dtype: object","3280    @janoschjerman @flightradar24 yes and no depen...
+Name: tweet, dtype: object","3280    germanwings-crash
+Name: topic, dtype: object",comment
+204,"3086    580375094784106496
+Name: id, dtype: object","3086    580371845997682688
+Name: parent_id, dtype: object","3086    @thatjohn @AirlineReporter Just over 4500 fpm ...
+Name: tweet, dtype: object","3086    germanwings-crash
+Name: topic, dtype: object",comment
+205,"3351    580321148728164353
+Name: id, dtype: object","3351    580320684305416192
+Name: parent_id, dtype: object","3351    RT @NYCAviation: Accident aircraft looks to be...
+Name: tweet, dtype: object","3351    germanwings-crash
+Name: topic, dtype: object",support
+206,"3338    580319184652890113
+Name: id, dtype: object","3338    None
+Name: parent_id, dtype: object","3338    BREAKING: 148 passengers were on board #German...
+Name: tweet, dtype: object","3338    germanwings-crash
+Name: topic, dtype: object",support
+207,"3134    580355004294250496
+Name: id, dtype: object","3134    580350976026112000
+Name: parent_id, dtype: object","3134    “@BBCBreaking: King Felipe VI of Spain cancels...
+Name: tweet, dtype: object","3134    germanwings-crash
+Name: topic, dtype: object",comment
+208,"3219    580336127162392576
+Name: id, dtype: object","3219    580333763512705025
+Name: parent_id, dtype: object","3219    @BBCBreaking @BBCWorld
+Name: tweet, dtype: object","3219    germanwings-crash
+Name: topic, dtype: object",comment
+209,"3096    581454776740773888
+Name: id, dtype: object","3096    581420137724530688
+Name: parent_id, dtype: object","3096    @Robs_tweeting @daxtonbrown @ShamNaarai @AnewT...
+Name: tweet, dtype: object","3096    germanwings-crash
+Name: topic, dtype: object",query
+210,"3107    581506195304775681
+Name: id, dtype: object","3107    581473088249958400
+Name: parent_id, dtype: object","3107    @jjauthor @gatewaypundit MSM refuses to say mu...
+Name: tweet, dtype: object","3107    germanwings-crash
+Name: topic, dtype: object",support
+211,"3097    581313996940296192
+Name: id, dtype: object","3097    581293286268129280
+Name: parent_id, dtype: object","3097    @daxtonbrown GERMAN NEWS: Co-Pilot of Germanwi...
+Name: tweet, dtype: object","3097    germanwings-crash
+Name: topic, dtype: object",deny
+212,"3320    580320708376461312
+Name: id, dtype: object","3320    580319078155468800
+Name: parent_id, dtype: object","3320    “@BBCBreaking: Germanwings Airbus A320 crashes...
+Name: tweet, dtype: object","3320    germanwings-crash
+Name: topic, dtype: object",support
+213,"3130    580354381578522625
+Name: id, dtype: object","3130    580350976026112000
+Name: parent_id, dtype: object","3130    King Felipe VI of Spain cancels state visit to...
+Name: tweet, dtype: object","3130    germanwings-crash
+Name: topic, dtype: object",comment
+214,"3316    580325939273424896
+Name: id, dtype: object","3316    580325778207932416
+Name: parent_id, dtype: object","3316    @Granabanana I do know that!
+Name: tweet, dtype: object","3316    germanwings-crash
+Name: topic, dtype: object",support
+215,"3092    581333436473868288
+Name: id, dtype: object","3092    581298086246395904
+Name: parent_id, dtype: object","3092    @daxtonbrown @Welsh58 @ShamNaarai @AnewTrackre...
+Name: tweet, dtype: object","3092    germanwings-crash
+Name: topic, dtype: object",deny
+216,"3266    581199670430449664
+Name: id, dtype: object","3266    581198557966897153
+Name: parent_id, dtype: object","3266    @marcepa49 It changes the flight profile and c...
+Name: tweet, dtype: object","3266    germanwings-crash
+Name: topic, dtype: object",comment
+217,"3192    580376517492023296
+Name: id, dtype: object","3192    580339825649291264
+Name: parent_id, dtype: object","3192    “@NBCNews: #Germanwings passenger plane crashe...
+Name: tweet, dtype: object","3192    germanwings-crash
+Name: topic, dtype: object",comment
+218,"3247    580345889744654337
+Name: id, dtype: object","3247    580331561398108160
+Name: parent_id, dtype: object","3247    @thatjohn @RAeSTimR Is that roughly equivalent...
+Name: tweet, dtype: object","3247    germanwings-crash
+Name: topic, dtype: object",support
+219,"3200    580501976305262592
+Name: id, dtype: object","3200    580326222107951104
+Name: parent_id, dtype: object","3200    @UlrichJvV :thank you for putting me on the TB...
+Name: tweet, dtype: object","3200    germanwings-crash
+Name: topic, dtype: object",comment
+220,"3191    580341606827474946
+Name: id, dtype: object","3191    580339825649291264
+Name: parent_id, dtype: object","3191    @NBCNews terrible situation...Let's pray to Go...
+Name: tweet, dtype: object","3191    germanwings-crash
+Name: topic, dtype: object",comment
+221,"3313    580321760735711232
+Name: id, dtype: object","3313    580319078155468800
+Name: parent_id, dtype: object","3313    Yikes :( RT @BBCBreaking: Germanwings Airbus A...
+Name: tweet, dtype: object","3313    germanwings-crash
+Name: topic, dtype: object",support
+222,"3149    580344272576241664
+Name: id, dtype: object","3149    580340476949086208
+Name: parent_id, dtype: object","3149    @foxandfriends Thats should be the extent of t...
+Name: tweet, dtype: object","3149    germanwings-crash
+Name: topic, dtype: object",comment
+223,"3071    581063377226637312
+Name: id, dtype: object","3071    None
+Name: parent_id, dtype: object","3071    #4U9525: Robin names Andreas Lubitz as the cop...
+Name: tweet, dtype: object","3071    germanwings-crash
+Name: topic, dtype: object",support
+224,"3288    581063618730553344
+Name: id, dtype: object","3288    581062346321190914
+Name: parent_id, dtype: object","3288    @Minus777 @flightradar24 @isobelroe That's wha...
+Name: tweet, dtype: object","3288    germanwings-crash
+Name: topic, dtype: object",comment
+225,"3128    580351698545319937
+Name: id, dtype: object","3128    580349875851784192
+Name: parent_id, dtype: object","3128    @BBCBreaking victims from Catalonia, Spain and...
+Name: tweet, dtype: object","3128    germanwings-crash
+Name: topic, dtype: object",comment
+226,"3085    580371845997682688
+Name: id, dtype: object","3085    None
+Name: parent_id, dtype: object","3085    #4U9525 took eight minutes to descend from 38,...
+Name: tweet, dtype: object","3085    germanwings-crash
+Name: topic, dtype: object",support
+227,"3093    581438559401410560
+Name: id, dtype: object","3093    581293286268129280
+Name: parent_id, dtype: object","3093    .@daxtonbrown @ItsJustJill Maybe it will be re...
+Name: tweet, dtype: object","3093    germanwings-crash
+Name: topic, dtype: object",comment
+228,"3284    581075660690575360
+Name: id, dtype: object","3284    581065934598582272
+Name: parent_id, dtype: object","3284    @Minus777 @flightradar24 @isobelroe Autopilot ...
+Name: tweet, dtype: object","3284    germanwings-crash
+Name: topic, dtype: object",comment
+229,"3328    580321858014298112
+Name: id, dtype: object","3328    580319078155468800
+Name: parent_id, dtype: object","3328    @BBCBreaking omg
+Name: tweet, dtype: object","3328    germanwings-crash
+Name: topic, dtype: object",support
+230,"3346    580321926515572737
+Name: id, dtype: object","3346    580319184652890113
+Name: parent_id, dtype: object","3346    “@AlArabiya_Eng: 148 passengers were on board ...
+Name: tweet, dtype: object","3346    germanwings-crash
+Name: topic, dtype: object",support
+231,"3082    581575879928590336
+Name: id, dtype: object","3082    581574401411457024
+Name: parent_id, dtype: object","3082    @tinkalee_12 @USATODAY @khjelmgaard My 2nd sou...
+Name: tweet, dtype: object","3082    germanwings-crash
+Name: topic, dtype: object",comment
+232,"3230    580336417391439872
+Name: id, dtype: object","3230    580333763512705025
+Name: parent_id, dtype: object","3230    Debris from #Germanwings crash located in Barc...
+Name: tweet, dtype: object","3230    germanwings-crash
+Name: topic, dtype: object",support
+233,"3157    580675526307766272
+Name: id, dtype: object","3157    580340476949086208
+Name: parent_id, dtype: object","3157    @foxandfriends this may be the plain in contro...
+Name: tweet, dtype: object","3157    germanwings-crash
+Name: topic, dtype: object",comment
+234,"3184    580332678274240512
+Name: id, dtype: object","3184    580332109782466561
+Name: parent_id, dtype: object","3184    @AirSmolik And apperently no turn to avoid ter...
+Name: tweet, dtype: object","3184    germanwings-crash
+Name: topic, dtype: object",support
+235,"3148    580341360948948992
+Name: id, dtype: object","3148    580340476949086208
+Name: parent_id, dtype: object","3148    @foxandfriends As long as plane stayed in air ...
+Name: tweet, dtype: object","3148    germanwings-crash
+Name: topic, dtype: object",query
+236,"3203    580356158457774080
+Name: id, dtype: object","3203    580326222107951104
+Name: parent_id, dtype: object","3203    @UlrichJvV my support for families :-(
+Name: tweet, dtype: object","3203    germanwings-crash
+Name: topic, dtype: object",comment
+237,"3239    580336915880116224
+Name: id, dtype: object","3239    580336417391439872
+Name: parent_id, dtype: object","3239    @BBCBreaking Heart
+Name: tweet, dtype: object","3239    germanwings-crash
+Name: topic, dtype: object",comment
+238,"3285    581194453471260672
+Name: id, dtype: object","3285    581075660690575360
+Name: parent_id, dtype: object","3285    @marcepa49 the flight profile. That doesn't in...
+Name: tweet, dtype: object","3285    germanwings-crash
+Name: topic, dtype: object",comment
+239,"3091    581294486472421376
+Name: id, dtype: object","3091    581293286268129280
+Name: parent_id, dtype: object","3091    @daxtonbrown Can any Muslim be trusted.  The O...
+Name: tweet, dtype: object","3091    germanwings-crash
+Name: topic, dtype: object",comment
+240,"3189    580339825649291264
+Name: id, dtype: object","3189    None
+Name: parent_id, dtype: object","3189    #Germanwings passenger plane crashes in French...
+Name: tweet, dtype: object","3189    germanwings-crash
+Name: topic, dtype: object",support
+241,"3208    580480344173993984
+Name: id, dtype: object","3208    580326222107951104
+Name: parent_id, dtype: object","3208    @UlrichJvV I recorded this today thinking abou...
+Name: tweet, dtype: object","3208    germanwings-crash
+Name: topic, dtype: object",comment
+242,"3153    580352023033470976
+Name: id, dtype: object","3153    580340476949086208
+Name: parent_id, dtype: object","3153    @foxandfriends rest in peace to families and f...
+Name: tweet, dtype: object","3153    germanwings-crash
+Name: topic, dtype: object",comment
+243,"3137    580882341880446977
+Name: id, dtype: object","3137    None
+Name: parent_id, dtype: object","3137    Report: Co-Pilot Locked Out Of Cockpit Before ...
+Name: tweet, dtype: object","3137    germanwings-crash
+Name: topic, dtype: object",support
+244,"3334    581219554912800768
+Name: id, dtype: object","3334    580322453928431617
+Name: parent_id, dtype: object","3334    @AJENews @germanwings was the co-pilot Christi...
+Name: tweet, dtype: object","3334    germanwings-crash
+Name: topic, dtype: object",comment
+245,"3127    580419652792279040
+Name: id, dtype: object","3127    580360979998900224
+Name: parent_id, dtype: object","3127    @davis1087 @BBCBreaking All I can say is that ...
+Name: tweet, dtype: object","3127    germanwings-crash
+Name: topic, dtype: object",comment
+246,"3226    580333870626766848
+Name: id, dtype: object","3226    580333763512705025
+Name: parent_id, dtype: object","3226    @BBCBreaking https://t.co/u0P5OaRm4k
+Name: tweet, dtype: object","3226    germanwings-crash
+Name: topic, dtype: object",support
+247,"3325    580337415241383938
+Name: id, dtype: object","3325    580333804457496576
+Name: parent_id, dtype: object","3325    @verylastone @dorome80 😢 that's terrible
+Name: tweet, dtype: object","3325    germanwings-crash
+Name: topic, dtype: object",comment
+248,"3177    580341230145572865
+Name: id, dtype: object","3177    580339547269144576
+Name: parent_id, dtype: object","3177    @mashable #germanwings really? pilots signalle...
+Name: tweet, dtype: object","3177    germanwings-crash
+Name: topic, dtype: object",query
+249,"3341    580320265030123520
+Name: id, dtype: object","3341    580319184652890113
+Name: parent_id, dtype: object","3341    @AlArabiya_Eng Terrible!
+Name: tweet, dtype: object","3341    germanwings-crash
+Name: topic, dtype: object",comment
+250,"3077    581573165492523008
+Name: id, dtype: object","3077    581386094337474560
+Name: parent_id, dtype: object","3077    @USATODAY @khjelmgaard #AndreasLubitz #GermanW...
+Name: tweet, dtype: object","3077    germanwings-crash
+Name: topic, dtype: object",comment
+251,"3190    580343629593620480
+Name: id, dtype: object","3190    580339825649291264
+Name: parent_id, dtype: object","3190    “@NBCNews: #Germanwings passenger plane crashe...
+Name: tweet, dtype: object","3190    germanwings-crash
+Name: topic, dtype: object",comment
+252,"3281    581062346321190914
+Name: id, dtype: object","3281    581034287522164736
+Name: parent_id, dtype: object","3281    @marcepa49 @flightradar24 @isobelroe They're n...
+Name: tweet, dtype: object","3281    germanwings-crash
+Name: topic, dtype: object",comment
+253,"3123    580349875851784192
+Name: id, dtype: object","3123    580348081100734464
+Name: parent_id, dtype: object","3123    Victims of #Germanwings crash were most likely...
+Name: tweet, dtype: object","3123    germanwings-crash
+Name: topic, dtype: object",support
+254,"3165    580339547269144576
+Name: id, dtype: object","3165    None
+Name: parent_id, dtype: object","3165    Latest on #Germanwings crash: Pilots signaled ...
+Name: tweet, dtype: object","3165    germanwings-crash
+Name: topic, dtype: object",support
+255,"3152    580370888303890432
+Name: id, dtype: object","3152    580340476949086208
+Name: parent_id, dtype: object","3152    @foxandfriends funny watching Doocy struggle t...
+Name: tweet, dtype: object","3152    germanwings-crash
+Name: topic, dtype: object",support
+256,"3340    580321411677454336
+Name: id, dtype: object","3340    580319482687680512
+Name: parent_id, dtype: object","3340    UPDATE: Plane crash in south of France had 142...
+Name: tweet, dtype: object","3340    germanwings-crash
+Name: topic, dtype: object",comment
+257,"3232    580337657777156097
+Name: id, dtype: object","3232    580336417391439872
+Name: parent_id, dtype: object","3232    @BBCBreaking On a positive note there is a run...
+Name: tweet, dtype: object","3232    germanwings-crash
+Name: topic, dtype: object",comment
+258,"3199    580326222107951104
+Name: id, dtype: object","3199    None
+Name: parent_id, dtype: object","3199    Heart goes out to 148 passengers and crew of G...
+Name: tweet, dtype: object","3199    germanwings-crash
+Name: topic, dtype: object",support
+259,"3259    580565085090889728
+Name: id, dtype: object","3259    580477720389398528
+Name: parent_id, dtype: object","3259    @flightradar24 @marcepa49 @isobelroe What I'm ...
+Name: tweet, dtype: object","3259    germanwings-crash
+Name: topic, dtype: object",comment
+260,"3252    580332179072393217
+Name: id, dtype: object","3252    580331561398108160
+Name: parent_id, dtype: object","3252    @thatjohn what are the implications of this? @...
+Name: tweet, dtype: object","3252    germanwings-crash
+Name: topic, dtype: object",query
+261,"3276    581194101032255488
+Name: id, dtype: object","3276    581075660690575360
+Name: parent_id, dtype: object","3276    @marcepa49 Have you operated a flight mqnageme...
+Name: tweet, dtype: object","3276    germanwings-crash
+Name: topic, dtype: object",comment
+262,"3204    580352961362202624
+Name: id, dtype: object","3204    580326222107951104
+Name: parent_id, dtype: object","3204    @UlrichJvV A tragedy for the families and frie...
+Name: tweet, dtype: object","3204    germanwings-crash
+Name: topic, dtype: object",support
+263,"3183    580332339055726592
+Name: id, dtype: object","3183    580332109782466561
+Name: parent_id, dtype: object","3183    @AirSmolik Only entered FL380 for a few mins p...
+Name: tweet, dtype: object","3183    germanwings-crash
+Name: topic, dtype: object",comment
+264,"3174    580340017886728192
+Name: id, dtype: object","3174    580339547269144576
+Name: parent_id, dtype: object","3174    @mashable Signalled 911? Called 'Mayday' would...
+Name: tweet, dtype: object","3174    germanwings-crash
+Name: topic, dtype: object",deny
+265,"3243    580346271547920384
+Name: id, dtype: object","3243    580345889744654337
+Name: parent_id, dtype: object","3243    @1CParsons @thatjohn No 'Pan Pan' call is univ...
+Name: tweet, dtype: object","3243    germanwings-crash
+Name: topic, dtype: object",comment
+266,"3169    580342218373890048
+Name: id, dtype: object","3169    580339547269144576
+Name: parent_id, dtype: object","3169    @mashable yessss!!
+Name: tweet, dtype: object","3169    germanwings-crash
+Name: topic, dtype: object",comment
+267,"3194    580341810729369600
+Name: id, dtype: object","3194    580339825649291264
+Name: parent_id, dtype: object","3194    #Breaking RT @NBCNews: #Germanwings passenger ...
+Name: tweet, dtype: object","3194    germanwings-crash
+Name: topic, dtype: object",comment
+268,"3261    580477832826130432
+Name: id, dtype: object","3261    580477320735133696
+Name: parent_id, dtype: object","3261    @Minus777 @flightradar24 @isobelroe No, somebo...
+Name: tweet, dtype: object","3261    germanwings-crash
+Name: topic, dtype: object",comment
+269,"3269    581063788150980608
+Name: id, dtype: object","3269    581063618730553344
+Name: parent_id, dtype: object","3269    @marcepa49 @flightradar24 @isobelroe The data ...
+Name: tweet, dtype: object","3269    germanwings-crash
+Name: topic, dtype: object",comment
+270,"3275    580327254468603904
+Name: id, dtype: object","3275    580326527495237632
+Name: parent_id, dtype: object","3275    @marcepa49 @flightradar24 @isobelroe Only take...
+Name: tweet, dtype: object","3275    germanwings-crash
+Name: topic, dtype: object",comment
+271,"3339    580319482687680512
+Name: id, dtype: object","3339    580319184652890113
+Name: parent_id, dtype: object","3339    BREAKING: 148 passengers were on board #German...
+Name: tweet, dtype: object","3339    germanwings-crash
+Name: topic, dtype: object",comment
+272,"3229    580336622811500545
+Name: id, dtype: object","3229    580333763512705025
+Name: parent_id, dtype: object","3229    @BBCBreaking RIP
+Name: tweet, dtype: object","3229    germanwings-crash
+Name: topic, dtype: object",comment
+273,"3258    581194671902195712
+Name: id, dtype: object","3258    581075660690575360
+Name: parent_id, dtype: object","3258    @marcepa49 @flightradar24 @isobelroe and have ...
+Name: tweet, dtype: object","3258    germanwings-crash
+Name: topic, dtype: object",comment
+274,"3075    581574401411457024
+Name: id, dtype: object","3075    581573165492523008
+Name: parent_id, dtype: object","3075    @EdWardMDBlog @USATODAY @khjelmgaard all rumor...
+Name: tweet, dtype: object","3075    germanwings-crash
+Name: topic, dtype: object",deny
+275,"3095    581307953950527488
+Name: id, dtype: object","3095    581298086246395904
+Name: parent_id, dtype: object","3095    @daxtonbrown The question should be,"" Should a...
+Name: tweet, dtype: object","3095    germanwings-crash
+Name: topic, dtype: object",comment
+276,"3233    580397833548861442
+Name: id, dtype: object","3233    580336417391439872
+Name: parent_id, dtype: object","3233    @BBCBreaking our hearts in nigeria goes to the...
+Name: tweet, dtype: object","3233    germanwings-crash
+Name: topic, dtype: object",comment
+277,"3090    581338469496041472
+Name: id, dtype: object","3090    581293286268129280
+Name: parent_id, dtype: object","3090    @daxtonbrown Dont u have anything better to do...
+Name: tweet, dtype: object","3090    germanwings-crash
+Name: topic, dtype: object",comment
+278,"3342    580321806285975552
+Name: id, dtype: object","3342    580319482687680512
+Name: parent_id, dtype: object","3342    @rConflictNews @AlArabiya_Eng Prayers going up...
+Name: tweet, dtype: object","3342    germanwings-crash
+Name: topic, dtype: object",comment
+279,"3147    580342470472400897
+Name: id, dtype: object","3147    580340476949086208
+Name: parent_id, dtype: object","3147    @foxandfriends please don't spend all day on t...
+Name: tweet, dtype: object","3147    germanwings-crash
+Name: topic, dtype: object",support
+280,"3083    581573267829342208
+Name: id, dtype: object","3083    581386094337474560
+Name: parent_id, dtype: object","3083    @USATODAY @khjelmgaard \n #A320 #PilotsNoFlyNo...
+Name: tweet, dtype: object","3083    germanwings-crash
+Name: topic, dtype: object",comment
